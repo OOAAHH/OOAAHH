@@ -10,16 +10,18 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  
+<div align="left">
+    <img src="https://streak-stats.demolab.com?user=OOAAHH" />
+</div>
 
-<div align="center">
+<div align="left">
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=OOAAHH&show_icons=true&theme=buefy" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OOAAHH&layout=compact&langs_count=8&theme=buefy" />
 <span>  </span>
 </div>
 
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=OOAAHH" />
-</div>
+
 
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=OOAAHH&theme=minimal" />
