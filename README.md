@@ -22,5 +22,7 @@
 </div>
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=OOAAHH&theme=minimal" />
 </div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/OOAAHH/OOAAHH/main/assets/github-contribution-grid-snake.svg" ></div>
