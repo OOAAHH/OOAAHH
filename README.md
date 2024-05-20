@@ -17,4 +17,10 @@
 <span>  </span>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=OOAAHH)](https://git.io/streak-stats)
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=OOAAHH" />
+</div>
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
+</div>
