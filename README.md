@@ -4,12 +4,13 @@
 
 - 🔭 I’m currently working on GZNL
 - 🌱 I’m currently learning bioinformatics
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ✨ My Skills ：
+  - 🖥️ **Operating Systems**
+    
+    [![](https://img.shields.io/badge/LinuxMint-47A248?style=flat-square&logo=linuxmint&logoColor=fff)](https://linuxmint.com/)
+    [![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)](https://www.microsoft.com/software-download/windows11)
+    [![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/download)
+
   
 <div align="left">
     <img src="https://streak-stats.demolab.com?user=OOAAHH" />
@@ -23,8 +24,3 @@
 
 
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=OOAAHH&theme=minimal" />
-</div>
-
-<div align="center"><img src="https://raw.githubusercontent.com/OOAAHH/OOAAHH/main/assets/github-contribution-grid-snake.svg" ></div>
