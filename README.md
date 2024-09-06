@@ -29,8 +29,6 @@
 <!--END_SECTION:activity-->
 
 
-# wave:
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/OOAAHH/count.svg" />
