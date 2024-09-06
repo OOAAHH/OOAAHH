@@ -29,7 +29,7 @@
 <!--END_SECTION:activity-->
 
 
-# Hey there :wave:
+# wave:
 
 <p align="center"> 
   Visitor count<br>
