@@ -29,7 +29,5 @@
 <!--END_SECTION:activity-->
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/OOAAHH/count.svg" />
-</p>
+
+![](https://count.getloli.com/get/@:OOAAHH)
