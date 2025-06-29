@@ -21,7 +21,7 @@
 ## Total Visits
 ![](https://count.getloli.com/get/@:OOAAHH)
 
-
+## Commits
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OOAAHH/OOAAHH/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OOAAHH/OOAAHH/output/pacman-contribution-graph.svg">
