@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+World!!!+(%E2%97%8D%E2%80%A2%E1%B4%97%E2%80%A2%E2%97%8D))](https://git.io/typing-svg)
 ## About me
-- 🔭 I’m currently working on GZNL
+- 🔭 I’m currently working on GZNL (as a Ph.D student)
 - 🌱 I’m currently learning bioinformatics
 - ✨ My Skills ：
   - 🖥️ **Operating Systems**
