@@ -6,7 +6,8 @@
 ## About me
 - 🔭 I’m currently working on Multiscale simulation of RNA (as a Ph.D student)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OOAAHH)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=OOAAHH)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OOAAHH&hide_border=true" alt="GitHub Streak" /></a>
 
 ## Total Visits
 ![](https://count.getloli.com/get/@:OOAAHH)
